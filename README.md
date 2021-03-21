@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HIboDahir29
+- 👋 Hi, I’m Hibo
 - 👀 I’m interested in learning about data science and analysis
 - 🌱 I’m currently learning machine learning
 
