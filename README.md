@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Hibo
-- 👀 I’m interested in learning about data science and analysis
+- 👋 Hi, I’m Hibo!
 - 🌱 I’m currently learning about Machine Learning and AI
 
 <!---
